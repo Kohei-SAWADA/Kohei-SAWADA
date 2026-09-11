@@ -40,7 +40,7 @@ Key ideas:
 
 <p align="center">
   <a href="https://github.com/Kohei-SAWADA/usage_kun">
-    <img src="assets/usage-kun-thumbnail.png" alt="usage_kun AI usage meter thumbnail" width="820">
+    <img src="assets/usage-kun-thumbnail.png" alt="usage_kun AI usage meter for Codex, Claude and Gemini" width="820">
   </a>
 </p>
 
