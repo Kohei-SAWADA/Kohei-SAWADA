@@ -4,7 +4,7 @@
 
 - GitHub: [@Kohei-SAWADA](https://github.com/Kohei-SAWADA)
 - LinkedIn: [Kohei Sawada](https://www.linkedin.com/in/kohei-sawada-498b30375/?skipRedirect=true)
-- Projects: [VASPFlowForge](https://github.com/Kohei-SAWADA/VASPFlowForge), [usage_kun](https://github.com/Kohei-SAWADA/usage_kun)
+- Projects: [VASPFlowForge](https://github.com/Kohei-SAWADA/VASPFlowForge), [usage_kun](https://github.com/Kohei-SAWADA/usage_kun), [Floating Pet](https://github.com/Kohei-SAWADA/floating-pet-android)
 
 ## Featured Public Repositories
 
@@ -58,6 +58,30 @@ Key ideas:
 - local-first behavior with no telemetry
 - read-only official sync when enabled
 - packaged app workflow plus source-build instructions
+
+### [Floating Pet](https://github.com/Kohei-SAWADA/floating-pet-android)
+
+<p align="center">
+  <a href="https://github.com/Kohei-SAWADA/floating-pet-android">
+    <img src="assets/floating-pet-thumbnail.png" alt="Floating Pet illustrated preview: Mofu on an Android home screen" width="820">
+  </a>
+</p>
+
+Floating Pet is a small, local-only Android app that brings an animated
+companion to your home screen. Use the included Mofu sample or import a
+compatible transparent PNG sprite sheet, then drag and resize your pet.
+
+Tap the pet to open the installed ChatGPT app. The development build includes
+English and Japanese interfaces, with installation and permission guidance.
+
+Key ideas:
+
+- calm, draggable companion over the detected Android home screen
+- original Mofu sample and local custom sprite-sheet import
+- adjustable size and a tap shortcut to ChatGPT
+- English and Japanese interfaces with a device-language option
+- no Internet permission, analytics, or account system
+- development APK and source-build instructions
 
 ## Toolbox
 
