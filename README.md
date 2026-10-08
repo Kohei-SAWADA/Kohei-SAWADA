@@ -4,7 +4,7 @@
 
 - GitHub: [@Kohei-SAWADA](https://github.com/Kohei-SAWADA)
 - LinkedIn: [Kohei Sawada](https://www.linkedin.com/in/kohei-sawada-498b30375/?skipRedirect=true)
-- Projects: [VASPFlowForge](https://github.com/Kohei-SAWADA/VASPFlowForge), [usage_kun](https://github.com/Kohei-SAWADA/usage_kun), [Floating Pet](https://github.com/Kohei-SAWADA/floating-pet-android)
+- Projects: [VASPFlowForge](https://github.com/Kohei-SAWADA/VASPFlowForge), [usage_kun](https://github.com/Kohei-SAWADA/usage_kun), [thermal kun](https://github.com/Kohei-SAWADA/thermal_kun), [Floating Pet](https://github.com/Kohei-SAWADA/floating-pet-android)
 
 ## Featured Public Repositories
 
@@ -58,6 +58,29 @@ Key ideas:
 - local-first behavior with no telemetry
 - read-only official sync when enabled
 - packaged app workflow plus source-build instructions
+
+### [thermal kun](https://github.com/Kohei-SAWADA/thermal_kun)
+
+<p align="center">
+  <a href="https://github.com/Kohei-SAWADA/thermal_kun">
+    <img src="assets/thermal-kun-thumbnail.png" alt="thermal kun macOS desktop monitor for CPU temperature and system telemetry" width="820">
+  </a>
+</p>
+
+thermal kun is a small native macOS app for keeping CPU temperature and system
+thermal conditions visible while working.
+
+Its movable square desktop panel shows CPU temperature, thermal state,
+CPU/GPU usage, and memory, with a temperature history and compact or detailed
+views. Measurements stay local, and the panel can sit alongside usage_kun.
+
+Key ideas:
+
+- CPU temperature and system thermal-state monitoring at a glance
+- draggable, resizable square panel with compact and detailed views
+- temperature history, session peak, and dark/light appearance
+- local-only, read-only monitoring with no administrator access
+- Apple Silicon app download plus source-build instructions
 
 ### [Floating Pet](https://github.com/Kohei-SAWADA/floating-pet-android)
 
